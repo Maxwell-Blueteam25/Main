@@ -42,7 +42,7 @@
 ---
 
 ### 🔗 Let's Connect
-- [LinkedIn](https://linkedin.com/in/yourname) (replace with your URL)
+- [LinkedIn](https://www.linkedin.com/in/maxwell-skinner-msu-denver-cyberintern-seattle) (replace with your URL)
 - Open to collaboration, feedback, and good security convos
 
 ---
