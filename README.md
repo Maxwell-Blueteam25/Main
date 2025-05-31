@@ -14,7 +14,7 @@
 ---
 
 ### 🧪 Projects
-- 📁 [`PersistenceCheck`](https://github.com/Maxwell-BlueTeam25/PersistenceCheck): Script to detect Windows persistence mechanisms
+- 📁 [`PersistenceCheck`](https://github.com/Maxwell-Blueteam25/PersistenceChecker/blob/277a5828ff4a9ac970669736b2ea1bca56b403ce/README.md): Script to detect Windows persistence mechanisms
 - 🐳 `FIR-Docker-Setup`: Work in progress—deploying FIR for scalable incident handling
 - 📚 `IR-Playbooks`: My structured response plans and case management workflows (coming soon)
 
